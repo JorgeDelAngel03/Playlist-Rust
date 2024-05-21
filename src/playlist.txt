@@ -1,0 +1,121 @@
+{Rock And Roll
+Smells Like Teen Spirit; Nirvana; Rock; 1991; Inglés; https://www.youtube.com/watch?v=hTWKbfoikeg
+Sweet Child O' Mine; Guns N' Roses; Rock; 1987; Inglés; https://www.youtube.com/watch?v=1w7OgIMMRc4
+Hotel California; Eagles; Rock; 1976; Inglés; https://www.youtube.com/watch?v=EqPtz5qN7HM
+Bohemian Rhapsody; Queen; Rock; 1975; Inglés; https://www.youtube.com/watch?v=fJ9rUzIMcZQ
+Stairway to Heaven; Led Zeppelin; Rock; 1971; Inglés; https://www.youtube.com/watch?v=QkF3oxziUI4
+Männer; Herbert Grönemeyer; Rock; 1984; Alemán; https://www.youtube.com/watch?v=E5jsVcYgp-g
+Enter Sandman; Metallica; Metal; 1991; Inglés; https://www.youtube.com/watch?v=CD-E-LDc384
+Painkiller; Judas Priest; Metal; 1990; Inglés; https://www.youtube.com/watch?v=nM__lPTWThU
+}
+{Coreanas
+TT; TWICE; Kpop; 2016; Coreano; https://www.youtube.com/watch?v=ePpPVE-GGJw
+Dynamite; BTS; Kpop; 2020; Coreano; https://www.youtube.com/watch?v=gdZLi9oWNZg
+How You Like That; BLACKPINK; Kpop; 2020; Coreano; https://www.youtube.com/watch?v=ioNng23DkIM
+The Feels; TWICE; Kpop; 2021; Coreano; https://www.youtube.com/watch?v=f5_wn8mexmM
+I AM; IVE; Kpop; 2023; Coreano; https://www.youtube.com/watch?v=6ZUIwj3FgUY
+Heavy Rotation; AKB48; Jpop; 2010; Japonés; https://www.youtube.com/watch?v=lkHlnWFnA0c
+}
+{chidas
+Tu falta de querer; Mon Laferte; Pop; 2015; Español; https://www.youtube.com/watch?v=V2UhHX70Ck4
+Mi buen amor; Mon Laferte; Pop; 2017; Español; https://www.youtube.com/watch?v=cZsZXvvlYlk
+La solitudine; Laura Pausini; Pop; 1993; Italiano; https://www.youtube.com/watch?v=pLYoXGEaZ8g
+L'italiano; Toto Cutugno; Pop; 1983; Italiano; https://www.youtube.com/watch?v=bXGxXmdndJM
+Sarà perché ti amo; Ricchi e Poveri; Pop; 1981; Italiano; https://www.youtube.com/watch?v=bo7mIB_ehXY
+Ti amo; Umberto Tozzi; Pop; 1977; Italiano; https://www.youtube.com/watch?v=9BNpG7H6oMI
+Tous les mêmes; Stromae; Pop; 2013; Francés; https://www.youtube.com/watch?v=CAMWdvo71ls
+Dernière danse; Indila; Pop; 2013; Francés; https://www.youtube.com/watch?v=K5KAc5CoCuk
+Formidable; Stromae; Pop; 2013; Francés; https://www.youtube.com/watch?v=S_xH7noaqTA
+Je te promets; Johnny Hallyday; Pop; 1986; Francés; https://www.youtube.com/watch?v=6PdBF6cx2vg
+Volare (Nel blu dipinto di blu); Domenico Modugno; Pop; 1958; Italiano; https://www.youtube.com/watch?v=Z-DVi0ugelc
+Atemlos durch die Nacht; Helene Fischer; Pop; 2013; Alemán; https://www.youtube.com/watch?v=Qz4qjDUrWhE
+Bad Romance; Lady Gaga; Pop; 2009; Inglés; https://www.youtube.com/watch?v=qrO4YZeyl0I
+99 Luftballons; Nena; Pop; 1983; Alemán; https://www.youtube.com/watch?v=La4Dcd1aUcE
+Sugar; Maroon 5; Pop; 2012; Inglés; https://www.youtube.com/watch?v=09R8_2nJtjg
+Shake It Off; Taylor Swift; Pop; 2014; Inglés; https://www.youtube.com/watch?v=nfWlot6h_JM
+La Vie en Rose; Édith Piaf; Chanson; 1945; Francés; https://www.youtube.com/watch?v=kFzViYkZAz4
+}
+{Yeah
+Lose Yourself; Eminem; Rap; 2002; Inglés; https://www.youtube.com/watch?v=_Yhyp-_hX2s
+Rockstar; Post Malone ft. 21 Savage; Rap; 2017; Inglés; https://www.youtube.com/watch?v=UceaB4D0jpo
+HUMBLE.; Kendrick Lamar; Rap; 2017; Inglés; https://www.youtube.com/watch?v=tvTRZJ-4EyI
+Sicko Mode; Travis Scott; Rap; 2018; Inglés; https://www.youtube.com/watch?v=6ONRf7h3Mdk
+God's Plan; Drake; Rap; 2018; Inglés; https://www.youtube.com/watch?v=xpVfcZ0ZcFM
+Haus am See; Peter Fox; Rap; 2008; Alemán; https://www.youtube.com/watch?v=4BJDNw7o6so
+}
+{Otaku
+Heavy Rotation; AKB48; Jpop; 2010; Japonés; https://www.youtube.com/watch?v=lkHlnWFnA0c
+Paprika; Foorin; Jpop; 2018; Japonés; https://www.youtube.com/watch?v=mcVqH76GSgQ
+Pretender; Official HIGE DANDism; Jpop; 2019; Japonés; https://www.youtube.com/watch?v=TQ8WlA2GXbk
+Gurenge; LiSA; Jpop; 2019; Japonés; https://www.youtube.com/watch?v=CwkzK-F0Y00
+Shinunoga E-Wa; Fujii Kaze; Jpop; 2020; Japonés; https://www.youtube.com/watch?v=aFgNuXj4dnk
+}
+{Este no
+Heavy Rotation; AKB48; Jpop; 2010; Japonés; https://www.youtube.com/watch?v=lkHlnWFnA0c
+Paprika; Foorin; Jpop; 2018; Japonés; https://www.youtube.com/watch?v=mcVqH76GSgQ
+Pretender; Official HIGE DANDism; Jpop; 2019; Japonés; https://www.youtube.com/watch?v=TQ8WlA2GXbk
+Gurenge; LiSA; Jpop; 2019; Japonés; https://www.youtube.com/watch?v=CwkzK-F0Y00
+Shinunoga E-Wa; Fujii Kaze; Jpop; 2020; Japonés; https://www.youtube.com/watch?v=aFgNuXj4dnk
+}
+{Este si
+Atemlos durch die Nacht; Helene Fischer; Pop; 2013; Alemán; https://www.youtube.com/watch?v=Qz4qjDUrWhE
+99 Luftballons; Nena; Pop; 1983; Alemán; https://www.youtube.com/watch?v=La4Dcd1aUcE
+Bad Romance; Lady Gaga; Pop; 2009; Inglés; https://www.youtube.com/watch?v=qrO4YZeyl0I
+Sugar; Maroon 5; Pop; 2012; Inglés; https://www.youtube.com/watch?v=09R8_2nJtjg
+Shake It Off; Taylor Swift; Pop; 2014; Inglés; https://www.youtube.com/watch?v=nfWlot6h_JM
+Tous les mêmes; Stromae; Pop; 2013; Francés; https://www.youtube.com/watch?v=CAMWdvo71ls
+Dernière danse; Indila; Pop; 2013; Francés; https://www.youtube.com/watch?v=K5KAc5CoCuk
+Formidable; Stromae; Pop; 2013; Francés; https://www.youtube.com/watch?v=S_xH7noaqTA
+Je te promets; Johnny Hallyday; Pop; 1986; Francés; https://www.youtube.com/watch?v=6PdBF6cx2vg
+Tu falta de querer; Mon Laferte; Pop; 2015; Español; https://www.youtube.com/watch?v=V2UhHX70Ck4
+La solitudine; Laura Pausini; Pop; 1993; Italiano; https://www.youtube.com/watch?v=pLYoXGEaZ8g
+Mi buen amor; Mon Laferte; Pop; 2017; Español; https://www.youtube.com/watch?v=cZsZXvvlYlk
+L'italiano; Toto Cutugno; Pop; 1983; Italiano; https://www.youtube.com/watch?v=bXGxXmdndJM
+Sarà perché ti amo; Ricchi e Poveri; Pop; 1981; Italiano; https://www.youtube.com/watch?v=bo7mIB_ehXY
+Ti amo; Umberto Tozzi; Pop; 1977; Italiano; https://www.youtube.com/watch?v=9BNpG7H6oMI
+Volare (Nel blu dipinto di blu); Domenico Modugno; Pop; 1958; Italiano; https://www.youtube.com/watch?v=Z-DVi0ugelc
+}
+{Se cancela
+Bad Romance; Lady Gaga; Pop; 2009; Inglés; https://www.youtube.com/watch?v=qrO4YZeyl0I
+Sugar; Maroon 5; Pop; 2012; Inglés; https://www.youtube.com/watch?v=09R8_2nJtjg
+99 Luftballons; Nena; Pop; 1983; Alemán; https://www.youtube.com/watch?v=La4Dcd1aUcE
+Shake It Off; Taylor Swift; Pop; 2014; Inglés; https://www.youtube.com/watch?v=nfWlot6h_JM
+Je te promets; Johnny Hallyday; Pop; 1986; Francés; https://www.youtube.com/watch?v=6PdBF6cx2vg
+Sarà perché ti amo; Ricchi e Poveri; Pop; 1981; Italiano; https://www.youtube.com/watch?v=bo7mIB_ehXY
+Ti amo; Umberto Tozzi; Pop; 1977; Italiano; https://www.youtube.com/watch?v=9BNpG7H6oMI
+L'italiano; Toto Cutugno; Pop; 1983; Italiano; https://www.youtube.com/watch?v=bXGxXmdndJM
+Atemlos durch die Nacht; Helene Fischer; Pop; 2013; Alemán; https://www.youtube.com/watch?v=Qz4qjDUrWhE
+La solitudine; Laura Pausini; Pop; 1993; Italiano; https://www.youtube.com/watch?v=pLYoXGEaZ8g
+Volare (Nel blu dipinto di blu); Domenico Modugno; Pop; 1958; Italiano; https://www.youtube.com/watch?v=Z-DVi0ugelc
+La Vie en Rose; Édith Piaf; Chanson; 1945; Francés; https://www.youtube.com/watch?v=kFzViYkZAz4
+Tous les mêmes; Stromae; Pop; 2013; Francés; https://www.youtube.com/watch?v=CAMWdvo71ls
+Dernière danse; Indila; Pop; 2013; Francés; https://www.youtube.com/watch?v=K5KAc5CoCuk
+Formidable; Stromae; Pop; 2013; Francés; https://www.youtube.com/watch?v=S_xH7noaqTA
+Tu falta de querer; Mon Laferte; Pop; 2015; Español; https://www.youtube.com/watch?v=V2UhHX70Ck4
+Mi buen amor; Mon Laferte; Pop; 2017; Español; https://www.youtube.com/watch?v=cZsZXvvlYlk
+}
+{Kpoperas
+TT; TWICE; Kpop; 2016; Coreano; https://www.youtube.com/watch?v=ePpPVE-GGJw
+Dynamite; BTS; Kpop; 2020; Coreano; https://www.youtube.com/watch?v=gdZLi9oWNZg
+How You Like That; BLACKPINK; Kpop; 2020; Coreano; https://www.youtube.com/watch?v=ioNng23DkIM
+The Feels; TWICE; Kpop; 2021; Coreano; https://www.youtube.com/watch?v=f5_wn8mexmM
+I AM; IVE; Kpop; 2023; Coreano; https://www.youtube.com/watch?v=6ZUIwj3FgUY
+Heavy Rotation; AKB48; Jpop; 2010; Japonés; https://www.youtube.com/watch?v=lkHlnWFnA0c
+}
+{Playlist Pop
+Bad Romance; Lady Gaga; Pop; 2009; Inglés; https://www.youtube.com/watch?v=qrO4YZeyl0I
+Sugar; Maroon 5; Pop; 2012; Inglés; https://www.youtube.com/watch?v=09R8_2nJtjg
+Shake It Off; Taylor Swift; Pop; 2014; Inglés; https://www.youtube.com/watch?v=nfWlot6h_JM
+Atemlos durch die Nacht; Helene Fischer; Pop; 2013; Alemán; https://www.youtube.com/watch?v=Qz4qjDUrWhE
+99 Luftballons; Nena; Pop; 1983; Alemán; https://www.youtube.com/watch?v=La4Dcd1aUcE
+Tous les mêmes; Stromae; Pop; 2013; Francés; https://www.youtube.com/watch?v=CAMWdvo71ls
+Dernière danse; Indila; Pop; 2013; Francés; https://www.youtube.com/watch?v=K5KAc5CoCuk
+Formidable; Stromae; Pop; 2013; Francés; https://www.youtube.com/watch?v=S_xH7noaqTA
+Je te promets; Johnny Hallyday; Pop; 1986; Francés; https://www.youtube.com/watch?v=6PdBF6cx2vg
+La solitudine; Laura Pausini; Pop; 1993; Italiano; https://www.youtube.com/watch?v=pLYoXGEaZ8g
+Tu falta de querer; Mon Laferte; Pop; 2015; Español; https://www.youtube.com/watch?v=V2UhHX70Ck4
+Mi buen amor; Mon Laferte; Pop; 2017; Español; https://www.youtube.com/watch?v=cZsZXvvlYlk
+L'italiano; Toto Cutugno; Pop; 1983; Italiano; https://www.youtube.com/watch?v=bXGxXmdndJM
+Sarà perché ti amo; Ricchi e Poveri; Pop; 1981; Italiano; https://www.youtube.com/watch?v=bo7mIB_ehXY
+Ti amo; Umberto Tozzi; Pop; 1977; Italiano; https://www.youtube.com/watch?v=9BNpG7H6oMI
+}
